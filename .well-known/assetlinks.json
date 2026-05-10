@@ -1,0 +1,14 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.j23488sh.railpick",
+      "sha256_cert_fingerprints": [
+        "28:0F:EF:22:34:02:12:71:7B:22:89:E8:A8:21:1F:38:5C:38:AE:4D:C9:A1:5A:DD:90:82:1E:5F:95:35:29:32",
+        "1B:5A:E5:6F:11:F4:B4:3D:5C:EE:33:CB:6E:9E:2F:24:36:CD:E8:50:E9:D0:B6:E0:27:35:17:E1:E2:4E:A3:BE",
+        "97:77:30:4E:E2:67:B8:80:E1:37:45:3B:99:7F:65:82:1D:EA:57:A3:7C:36:7A:59:00:00:7F:48:E7:37:16:38"
+      ]
+    }
+  }
+]
